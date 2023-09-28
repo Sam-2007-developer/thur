@@ -1,0 +1,422 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:Poppins;
+    font-size: 20px;
+    width: 100%;
+    overflow-x: hidden;
+}
+.section1{
+    display: flex;
+        align-items: center;
+        justify-content: space-between;
+        // position: fixed;
+        top: 0%;
+        left: 0%;
+        right: 0%;
+        padding-right: 15px;
+    .logo{
+        img{
+            width: 50%;
+        }
+    }
+    .list{
+        display: flex;
+        ul{
+            gap: 30px;
+            padding: 30px;
+            display: flex;
+            text-decoration: none;
+            li{
+                list-style: none;
+            }
+        }
+
+    }
+}
+.section2{
+    display: flex;
+    background-image: url(img/opay/mask-bg.png);
+    align-items: center;
+    justify-content: center;
+    .up{
+        margin: 30px;
+    }
+    .sam{
+        margin: 30px;
+        .we{
+            padding-top: 70px;
+            .head{
+                .text{
+                    color: blue;
+                    font-weight: 900;
+                    font-size: 50px;
+                }
+                .beyond{
+                    color: aqua;
+                }
+            }
+        }
+    }
+    .vector{
+        img{
+            width: 30%;
+            margin-left: 12rem;
+            margin-bottom: 5px;
+        }
+    }
+    .opay{
+        max-width: 350px;
+        color: blue;
+        margin: 30px;
+        font-size: 23px;
+    }
+    .licensed{
+        margin: 30px;
+        margin-bottom: 5px;
+    }
+    .download{
+        img{
+            margin: 30px;
+            width: 15%;
+        }
+    }
+.header{
+    display: flex;
+}
+ 
+    }
+
+    .section3{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        .maf{    
+            flex: 6;
+            margin: 5rem;
+        .ban{
+                    .ss{
+                        color: rgb(8, 109, 109);
+                        margin: 20px;
+                        margin-bottom: 20px;
+                        }
+                    }
+                    .aa{
+                        margin: 20px;
+                    }
+                }
+            }
+            .ma{
+                flex: 6;
+                margin-left: 20rem;
+                .ba{
+                    .s{
+                        color: rgb(8, 109, 109);
+                        margin: 20px;
+                        margin-bottom: 20px;
+                    }
+                    .a{
+                        margin: 20px;
+                    }
+                }
+            }
+    .section4{
+            .lap{
+                .la{
+                    .ap{
+                        color: blue;
+                         padding-left: 5rem;
+                    }
+                }
+            }
+           }
+    .section5{
+        .key{
+            display: flex;
+            flex: 6;
+            padding: 60px;
+            align-items: center;
+            justify-content: center;
+            .ey{
+                 flex: 6;
+            }
+        }
+        .fund{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            .fun{
+                color: blue;
+                flex: 6;
+                padding-bottom: 6rem;
+                font-weight: 900;
+                font-size: 40px;
+                 padding-left: 145px;
+                }
+                .und{
+                    flex-direction: column;
+                    color: gray;
+                    padding-left: 190px;
+                }
+            }
+           
+        }
+    .section6{
+        background-color: azure;
+        .seven{
+            .se{
+                text-align: center;
+                font-weight: 900;
+                font-size: 20px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .sev{
+                margin-left: 25px;
+                text-align: center;
+                color: gray;
+                padding: 25px;
+                font-size: 25px;
+            }
+            .sed{
+                padding-left: 40px;
+            }
+        }
+    }
+    .section7{
+         padding: 100px;
+        .six{
+            .si{
+                color: blue;
+                text-align: center;
+                
+                font-size: 22px;
+                font-family: Arial, Helvetica, sans-serif;
+                .get{
+                    padding: 30px;
+                }
+            }
+        }
+    }
+    .section8{
+        background-color: azure;
+        .eight{
+            display: flex;
+        }
+        .eig{
+            .ei{
+                color: blue;
+                padding-right: 5px;
+                font-family: Arial, Helvetica, sans-serif;
+                padding: 50px;
+                font-size: 25px;
+                
+            }
+        }
+    }
+    .section9{
+        background-color: azure;
+        .core{
+            .ore{
+                margin: 100px;
+                .or{
+                    color: blue;
+                    font-family: 'Times New Roman', Times, serif;
+                    font-size: 50px;
+                }
+                .re{
+                    color: gray;
+                    font-size: 30px;
+                }
+            }
+        }
+        .nine{
+            display: flex;
+            flex-direction: row;
+            .nin{
+                flex-direction: row;
+            }
+            .ni{
+                flex-direction: row;
+            }
+            .n{
+                flex-direction: row;
+            }
+        }
+    }
+    .section10{
+        .ten{
+            color: blue;
+            padding: 5rem;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bolder;
+            font-size: 25px;
+        }
+    }
+    .section11{
+        margin-top: -100px;
+        .section1{
+            display: flex;
+            .section{
+                flex: 6;
+                margin-top: 70px;
+                .advance{
+                    margin: 30px;
+                    flex-direction: column;
+                    background-color: rgb(196, 176, 176);
+                        border-radius: 25px;
+                        margin-bottom: 95px;
+                        padding: 5px;
+                    .advan{
+                        margin: 30px;
+                    }
+                    .your{
+                        margin: 30px;
+                    }
+                }
+                .adva{
+                    flex-direction: column;
+                    margin: 30px;
+                    flex-direction: column;
+                    background-color: rgb(196, 176, 176);
+                        border-radius: 25px;
+                        margin-bottom: 200px;
+                        padding: 5px;
+                    .self{
+                        margin: 30px;
+                    }
+                    .are{
+                        margin: 30px;
+                    }
+                }
+                .adv{
+                    display: flex;
+                    .ad{
+                        flex: 6;
+                    }
+                }
+            }
+        }
+    }
+    .section12{
+        background-color: blue;
+        border-radius: 20px;
+        margin: 5px;
+        .sectio2{
+            display: flex;
+            .secti{
+                flex: 6;
+                padding: 45px;
+                .here{
+                    color: white;
+                    font-size: 50px;
+                    font-family: Arial, Helvetica, sans-serif;
+                }
+                    .ere{
+                        color: white;
+                        margin-top: 55px;
+                        
+                    }
+            
+            
+            .nom{
+                .nomb{
+                    color: white;
+                }
+                .nombg{
+                    color: white;
+                }
+            }
+        }
+        .sectio3{
+            .br{
+                padding-bottom:75px;
+                padding-left: 35px;
+                padding: 20px;
+            }
+        }
+    }
+}
+footer{
+    background-color: aqua;
+    margin-top: 75px;
+    
+    .sectionw{
+        display: flex;
+        .sectionn{
+            flex: 3;
+            padding-top: 75px;
+            color: white;
+            ul{
+                li{
+                    a{
+                        text-decoration: none;
+                        color: white;
+                        
+                    }
+                }
+            }
+        }
+        .enter{
+            flex: 3;
+            padding-top: 75px;
+            color: white;
+            ul{
+                list-style: none;
+                li{
+                    a{
+                        text-decoration: none;
+                        color: white;
+                        
+                    }
+                }
+            }
+        }
+        .ente{
+            flex: 3;
+            padding-top: 75px;
+            color: white;
+            ul{
+                list-style: none;
+                li{
+                    a{
+                        text-decoration: none;
+                        color: white;
+                        
+                    }
+                }
+            }
+        }
+        .ente{
+            flex: 3;
+            padding-top: 75px;
+            color: white;
+            ul{
+                li{
+                    a{
+                        text-decoration: none;
+                        color: white;
+                        
+                    }
+                }
+            }
+        }
+        .ent{
+            flex: 3;
+            padding-top: 75px;
+            color: white;
+            ul{
+                li{
+                    a{
+                        text-decoration: none;
+                        color: white;
+                        
+                    }
+                }
+            }
+        }
+    }
+}
